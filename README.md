@@ -14,6 +14,9 @@ Docs for EEG setup in K02
 
 # Overview of setup
 ![image info](https://github.com/UiL-OTS-labs/K02_EEG/blob/main/baby-eeg/baby-eeg.001.png)
+![captions](https://github.com/UiL-OTS-labs/K02_EEG/blob/main/baby-eeg/baby-eeg.002.png)
+![infographic](https://github.com/UiL-OTS-labs/K02_EEG/blob/main/baby-eeg/baby-eeg.003.png)
+
 
 ## General
 
